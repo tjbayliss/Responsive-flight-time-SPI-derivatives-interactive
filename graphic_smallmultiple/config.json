@@ -1,0 +1,35 @@
+{
+    "vars" : {
+			"variables" : [ "var0" , "var1" ],
+            "dateFormat":"%Y",        
+            "legendLabels" : [ ],   
+            "xAxisLabel":"Year",
+            "yAxisLabel":"units",
+            "xAxisScale":"auto_zero_max",
+            "yAxisScale":[0,12],		
+            "xAxisScaleDivisor":1,
+            "yAxisScaleDivisor":1,
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65] ,
+			"numRows_sm_md_lg":[8,4,4],
+			"numColumns_sm_md_lg":[2,4,4],
+			"graphStyle":"line",
+			"isInteractive":true,
+            "margin_sm": [5, 5, 0, 5],
+            "margin_md": [5, 5, 0, 20],
+            "margin_lg": [5, 5, 0, 20],
+            "aspectRatio_sm" : [16,16],
+            "aspectRatio_md" : [16,18],
+            "aspectRatio_lg" : [14,16],
+            "mobileBreakpoint" : 610, 
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%Y"], 
+            "x_num_ticks_sm_md_lg" : [10,10,10],    
+            "y_num_ticks_sm_md_lg" : [4,5,5],    
+            "centre_line" : false,
+            "centre_line_value" :0,
+			"regressionLine":true,
+			"equalityLine":false  
+    }
+}
+
+
